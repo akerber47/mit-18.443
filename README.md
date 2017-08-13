@@ -10,3 +10,7 @@ course ([18.650 -- Fall
  The course was taught using matlab, but I'm using numpy/scipy/matplotlib for
  Python instead. I couldn't get the original data sets, so I'm scrounging some
  together to play with.
+
+I'm not actually sure what individual dependencies are needed for these python
+scripts, but I installed all the scientific/numerical stuff I needed at once by
+installing [Anaconda](https://docs.continuum.io/anaconda/).
