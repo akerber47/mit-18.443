@@ -14,3 +14,6 @@ course ([18.650 -- Fall
 I'm not actually sure what individual dependencies are needed for these python
 scripts, but I installed all the scientific/numerical stuff I needed at once by
 installing [Anaconda](https://docs.continuum.io/anaconda/).
+
+Problem set 2: [SOCR Data: Human Heights and
+Weights](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights)
