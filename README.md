@@ -8,12 +8,12 @@ course ([18.650 -- Fall
      has no textbook at all. But so far I like having a textbook.
 
  The course was taught using matlab, but I'm using numpy/scipy/matplotlib for
- Python instead. I couldn't get the original data sets, so I'm scrounging some
- together to play with.
+ Python instead. The data files are in .mat format on the MIT OCW website.
 
 I'm not actually sure what individual dependencies are needed for these python
 scripts, but I installed all the scientific/numerical stuff I needed at once by
 installing [Anaconda](https://docs.continuum.io/anaconda/).
 
-Problem set 2: [SOCR Data: Human Heights and
-Weights](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights)
+I've "completed" (with lots of cheating) the explicit programming assignments
+in the homework. There are other book problems that may require some
+programming, so I may contribute more to this repo in the future.
